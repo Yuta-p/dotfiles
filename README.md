@@ -1,2 +1,6 @@
 # dotfiles
-Dotfiles for the various apps and wms I'll be using :)
+
+Feel free to use my config however you want :)
+
+List of wms:
+* bspwm
